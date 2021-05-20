@@ -15,10 +15,7 @@ source install/local_setup.bash && source install/setup.bash
 ```
 
 ### Downloading the packages
-```
-cd ros2_ws/src
-git clone https://github.com/iamarkaj/HelloROS2.git
-```
+Download ROS2 Challenge folder inside ros2_ws/src
 
 ### Building packages using colcon
 ```
